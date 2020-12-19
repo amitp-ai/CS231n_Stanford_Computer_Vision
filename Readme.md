@@ -1,5 +1,9 @@
 # [CS231n (Computer Vision)](http://cs231n.stanford.edu/2017/)
 
+## [Syllabus](http://cs231n.stanford.edu/2017/syllabus.html)
+
+## Assignments
+
 ### 1. [Assignment 1](https://cs231n.github.io/assignments2017/assignment1/)
 1. ML basics e.g. KNN, SVM
 2. Basic Neural Nets
