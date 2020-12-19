@@ -1,4 +1,4 @@
-# CS231n (Computer Vision Course)
+# CS231n (Computer Vision)
 
 ### 1. [Assignment 1](https://cs231n.github.io/assignments2017/assignment1/)
 1. ML basics e.g. KNN, SVM
