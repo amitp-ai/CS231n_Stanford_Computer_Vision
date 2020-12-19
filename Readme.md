@@ -1,7 +1,8 @@
 # CS231n (Stanford's Computer Vision Course)
 
-NOTE: ALL THE CODE IN CS231N ASSIGNMENTS IS INITIALLY DONE FOR PYTHON 2. BUT I HAVE MODIFIED IT TO RUN ON PYTHON 3. BUT A FEW PLACES MAY STILL HAVE PROBLEMS RUNNING.
+1. https://cs231n.github.io/assignments2017/assignment1/
+2. https://cs231n.github.io/assignments2017/assignment2/
+    FYI: need to install g++ compiler to run cython command properly for assignment 2 (sudo apt-get install g++)
+3. https://cs231n.github.io/assignments2017/assignment3/
 
-Also: need to install g++ compiler by running the following (need this to run cython command properly for assignment 2):
-sudo apt-get install g++
 
