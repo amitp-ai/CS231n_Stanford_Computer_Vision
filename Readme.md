@@ -1,6 +1,6 @@
-# [CS231n (Computer Vision)](http://cs231n.stanford.edu/2017/)
+# CS231n (Computer Vision): http://cs231n.stanford.edu/2017/
 
-## [Syllabus](http://cs231n.stanford.edu/2017/syllabus.html)
+## Syllabus: http://cs231n.stanford.edu/2017/syllabus.html
 
 ## Assignments
 
