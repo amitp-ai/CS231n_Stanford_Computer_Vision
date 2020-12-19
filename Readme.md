@@ -1,6 +1,8 @@
-# CS231n (Computer Vision): http://cs231n.stanford.edu/2017/
+# CS231n (Computer Vision)
+http://cs231n.stanford.edu/2017/
 
-## Syllabus: http://cs231n.stanford.edu/2017/syllabus.html
+## Syllabus
+http://cs231n.stanford.edu/2017/syllabus.html
 
 ## Assignments
 
@@ -21,6 +23,6 @@
 2. Image captioning using LSTM & CNN (using Tensorflow)
 3. Generate adversarial images to fool a trained CNN (using Tensorflow)
 4. Salency Maps (using Tensorflow)
-5. Image generation using GANs
+5. Image generation using GANs (using Tensorflow)
 
 
