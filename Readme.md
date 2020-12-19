@@ -22,7 +22,7 @@ http://cs231n.stanford.edu/2017/syllabus.html
 1. RNN & LSTM: forward and backward pass (using Numpy)
 2. Image captioning using LSTM & CNN (using Tensorflow)
 3. Generate adversarial images to fool a trained CNN (using Tensorflow)
-4. Salency Maps (using Tensorflow)
+4. Saliency Maps (using Tensorflow)
 5. Image generation using GANs (using Tensorflow)
 
 
