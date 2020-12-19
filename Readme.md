@@ -7,7 +7,7 @@
 
 ### 2. [Assignment 2](https://cs231n.github.io/assignments2017/assignment2/)
 
-FYI: need to install g++ compiler to run cython command properly (sudo apt-get install g++)
+(need  g++ compiler to run properly run cython commands --> sudo apt-get install g++)
 1. Implement feed-forward nets and CNNs
 2. Implement dropout, and batchnorm layer (using Numpy)
 3. Implement the backwards pass for all the above layers (using Numpy)
