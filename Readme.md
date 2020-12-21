@@ -1,4 +1,4 @@
-# CS231n (Computer Vision)
+# CS231n (Computer Vision) -- Spring 2017
 http://cs231n.stanford.edu/2017/
 
 ## Syllabus
